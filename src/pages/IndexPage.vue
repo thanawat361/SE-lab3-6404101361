@@ -14,7 +14,7 @@
         lazy-rules
         :rules="[ val => val && val.length > 0 || 'ใส่ด้วยครับน้อง']"
       />
-
+g
       <q-input
         filled
         type="number"
